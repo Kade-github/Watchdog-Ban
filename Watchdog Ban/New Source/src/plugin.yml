@@ -1,0 +1,15 @@
+name: Watchdog Ban
+author: Kade
+main: Kade.WatchdogBan.Main
+api-version: 1.14
+version: 2.0.0
+commands:
+  wban:
+    description: Ban in the style of watchdog!
+    usage: wban <name>
+  wunban:
+    description: Unban in the style of watchdog (not really)
+    usage: wunban <uuid/name>
+  wtban:
+    description: Temp ban in the style of watchdog!
+    usage: wtban <days> <name>

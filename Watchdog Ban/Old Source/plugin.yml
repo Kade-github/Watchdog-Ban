@@ -1,0 +1,11 @@
+ name: WatchdogBan
+ description: Ban in the style of watchdog!
+ main: me.kerblegh.bukkit.main
+ author: Kerblegh
+ version: 2.0.0
+ 
+ commands:
+   wdb:
+     description: Ban someone.
+   wdub:
+     description: Un-ban someone.
